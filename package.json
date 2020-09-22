@@ -1,5 +1,6 @@
 {
   "name": "mi-web",
+  "homepage": "https://solocreativo.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
